@@ -1,7 +1,7 @@
 # 기업 성공 확률 예측 해커톤: 미래의 성공기업을 발굴하라!
 
 ### **2025-04-01 ~ 2025.05.30**
-### [Competition Link](https://dacon.io/competitions/open/236475/overview/description)
+### [Competition & Data Link](https://dacon.io/competitions/open/236475/overview/description)
 - 다양한 기업 데이터를 기반으로 AI 알고리즘을 개발하여, 기업의 성공 가능성을 예측
 
 - 평가 산식: Weighted MAE  
@@ -34,10 +34,6 @@
 
 ```
 predict_corporate_success_probability/
-├── data/               
-│   ├── train.csv
-│   ├── test.csv
-│   └── sample_submission.csv
 ├── Feature Engineering + RF + XGB Soft Voting.ipynb          
 ├── fiinal_submissionn.csv
 ├── README.md           
