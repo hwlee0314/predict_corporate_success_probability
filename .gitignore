@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 
+
 # 주피터 노트북 체크포인트
 .ipynb_checkpoints/
 
